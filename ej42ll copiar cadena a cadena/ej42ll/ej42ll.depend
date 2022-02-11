@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641965559 source:c:\users\user\dropbox\ats c++\ej42ll copiar cadena a cadena\ej42ll\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+

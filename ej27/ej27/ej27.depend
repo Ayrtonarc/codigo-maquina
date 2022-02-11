@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637730214 source:c:\users\krypton\dropbox\ats c++\ej27\ej27\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+

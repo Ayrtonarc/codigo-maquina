@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638245665 source:c:\users\krypton\dropbox\ats c++\ej28\ej28fibonacci\main.cpp
+	<iostream>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642217119 source:c:\users\krypton\dropbox\ats c++\ej59 categoria de un corredor\ej59\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+
